@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Mountain Pose (Tadasana)",
+    "target_area": "full body, posture",
+    "difficulty": "beginner",
+    "benefits": "Improves posture, balance, and body awareness. Gentle grounding pose that builds attention to alignment.",
+    "contraindications": "None significant. Safe for essentially all practitioners, including those with knee or back injuries, since it is a static standing pose with no bending or loading.",
+    "description": "Stand with feet hip-width apart, weight even across both feet, arms relaxed at sides, spine long, gaze forward."
+  },
+  {
+    "name": "Child's Pose (Balasana)",
+    "target_area": "back, hips",
+    "difficulty": "beginner",
+    "benefits": "Gently stretches the back, hips, and thighs. Calming, often used to rest between more active poses.",
+    "contraindications": "Avoid or modify with knee injury, since the pose folds the knees fully and places body weight over them; a cushion under the knees or a wide-knee variation reduces load. Avoid deep forward compression during pregnancy.",
+    "description": "Kneel, sit back onto the heels, fold the torso forward over the thighs, arms extended or relaxed alongside the body."
+  },
+  {
+    "name": "Cat-Cow (Marjaryasana-Bitilasana)",
+    "target_area": "spine",
+    "difficulty": "beginner",
+    "benefits": "Warms up the spine, improves spinal mobility and coordination with breath.",
+    "contraindications": "Avoid or modify with wrist injury, since it bears weight through the wrists; fists or forearms can substitute. Keep the neck neutral if there is neck injury or strain.",
+    "description": "On hands and knees, alternate between arching the spine (cow) and rounding it (cat), moving with the breath."
+  },
+  {
+    "name": "Downward-Facing Dog (Adho Mukha Svanasana)",
+    "target_area": "shoulders, hamstrings, full body",
+    "difficulty": "intermediate",
+    "benefits": "Stretches hamstrings and calves, strengthens arms and shoulders, mildly inverts the body to encourage circulation.",
+    "contraindications": "Avoid or modify with wrist injury or carpal tunnel due to sustained weight-bearing on the hands. Use caution with high blood pressure because the head is below the heart.",
+    "description": "From hands and knees, lift the hips up and back, forming an inverted V with straight arms and legs."
+  },
+  {
+    "name": "Warrior I (Virabhadrasana I)",
+    "target_area": "legs, hips",
+    "difficulty": "intermediate",
+    "benefits": "Strengthens the legs and core, opens the hips and chest, builds stamina.",
+    "contraindications": "Avoid or modify with knee injury, since the front knee bends deeply and bears significant load; keep the bend shallow or use a shorter stance. Use caution with high blood pressure when raising the arms overhead.",
+    "description": "Step one foot back, square the hips forward, bend the front knee to roughly 90 degrees, raise both arms overhead."
+  },
+  {
+    "name": "Warrior II (Virabhadrasana II)",
+    "target_area": "legs, hips",
+    "difficulty": "intermediate",
+    "benefits": "Builds leg strength and stamina, opens the hips, improves focus and stability.",
+    "contraindications": "Avoid or modify with knee injury, since the front knee holds a deep bend under sustained load; shallow the bend or shorten the stance.",
+    "description": "Step the feet wide apart, turn the front foot out, bend the front knee over the ankle, extend arms parallel to the floor."
+  },
+  {
+    "name": "Triangle Pose (Trikonasana)",
+    "target_area": "legs, side body, spine",
+    "difficulty": "intermediate",
+    "benefits": "Stretches the legs, hips, and spine, improves balance and lateral flexibility.",
+    "contraindications": "Avoid or modify with neck injury when turning the gaze upward; keep the neck neutral instead. Use caution with low back injury.",
+    "description": "Stand with feet wide, extend the torso sideways over the front leg, reaching the front hand toward the shin or floor and the back hand toward the ceiling."
+  },
+  {
+    "name": "Tree Pose (Vrksasana)",
+    "target_area": "legs, balance",
+    "difficulty": "beginner",
+    "benefits": "Improves balance and concentration, strengthens the standing leg and ankle.",
+    "contraindications": "Avoid or modify with knee injury on the standing leg, since balancing concentrates load through that knee; place the lifted foot below the knee (on the calf or ankle) rather than pressing directly on the knee joint.",
+    "description": "Balance on one leg, place the sole of the other foot on the inner calf or thigh, hands at heart center or overhead."
+  },
+  {
+    "name": "Chair Pose (Utkatasana)",
+    "target_area": "legs, core",
+    "difficulty": "intermediate",
+    "benefits": "Strengthens the thighs, glutes, and core, builds heat and stamina.",
+    "contraindications": "Avoid or modify with knee injury due to the sustained deep knee bend; a shallower bend reduces joint load. Use caution with low back issues.",
+    "description": "Bend the knees and sink the hips back as if sitting into a chair, arms raised overhead, weight in the heels."
+  },
+  {
+    "name": "Bridge Pose (Setu Bandhasana)",
+    "target_area": "back, glutes",
+    "difficulty": "beginner",
+    "benefits": "Strengthens the back and glutes, gently opens the chest, a knee-safe alternative to standing backbends since it is performed lying down with no weight on the knees.",
+    "contraindications": "Avoid or modify with neck injury, since the pose loads the back of the neck and shoulders.",
+    "description": "Lie on the back, feet flat and hip-width apart, lift the hips while pressing through the feet and shoulders."
+  },
+  {
+    "name": "Cobra Pose (Bhujangasana)",
+    "target_area": "spine, chest",
+    "difficulty": "beginner",
+    "benefits": "Strengthens the spine, opens the chest and shoulders, gentle backbend.",
+    "contraindications": "Avoid or modify with wrist injury, since the hands bear weight to lift the chest. Use caution with pregnancy or significant low back injury.",
+    "description": "Lie face down, hands under the shoulders, press the chest up while keeping the hips grounded."
+  },
+  {
+    "name": "Seated Forward Fold (Paschimottanasana)",
+    "target_area": "hamstrings, back",
+    "difficulty": "intermediate",
+    "benefits": "Stretches the hamstrings and spine, calming and introspective.",
+    "contraindications": "Avoid or modify with low back injury; bending the knees slightly reduces strain on the lower back.",
+    "description": "Sit with legs extended, fold the torso forward over the legs, reaching toward the feet."
+  },
+  {
+    "name": "Legs-Up-The-Wall (Viparita Karani)",
+    "target_area": "legs, relaxation",
+    "difficulty": "beginner",
+    "benefits": "Relieves tired legs, promotes circulation and relaxation, effective for stress relief. Knee-safe since the legs rest passively against a wall with no standing or bearing weight.",
+    "contraindications": "Avoid with glaucoma or other serious eye pressure conditions.",
+    "description": "Lie on the back with the legs extended up a wall, arms relaxed at the sides, staying passive and breathing slowly."
+  },
+  {
+    "name": "Corpse Pose (Savasana)",
+    "target_area": "full body, relaxation",
+    "difficulty": "beginner",
+    "benefits": "Deep relaxation, integrates the effects of practice, calms the nervous system. Knee-safe, as it is performed lying flat with no joint loading at all.",
+    "contraindications": "None significant. Safe for essentially all practitioners, including those with knee, back, or joint injuries.",
+    "description": "Lie flat on the back, arms and legs relaxed and slightly apart, eyes closed, breathing naturally."
+  },
+  {
+    "name": "Easy Pose (Sukhasana)",
+    "target_area": "hips, meditation",
+    "difficulty": "beginner",
+    "benefits": "Calms the mind, gently opens the hips, supports breathing and meditation practice.",
+    "contraindications": "Avoid or modify with knee injury, since sitting cross-legged loads the knee joints; sitting on a cushion or using a chair instead removes that load.",
+    "description": "Sit cross-legged with a tall spine, hands resting on the knees or in the lap, breathing steadily."
+  },
+  {
+    "name": "Standing Forward Fold (Uttanasana)",
+    "target_area": "hamstrings, back",
+    "difficulty": "intermediate",
+    "benefits": "Stretches the hamstrings and calves, calms the nervous system.",
+    "contraindications": "Avoid or modify with low back injury; bend the knees generously to reduce strain. Use caution with high blood pressure due to the inverted head position.",
+    "description": "From standing, hinge at the hips and fold the torso forward, letting the head hang, knees soft."
+  },
+  {
+    "name": "Plank Pose",
+    "target_area": "core, arms",
+    "difficulty": "intermediate",
+    "benefits": "Builds core and arm strength, improves overall stability.",
+    "contraindications": "Avoid or modify with wrist injury or shoulder injury, since the pose bears full body weight through the hands and shoulders.",
+    "description": "Hold a straight line from head to heels, supported on the hands and toes, core engaged."
+  },
+  {
+    "name": "Camel Pose (Ustrasana)",
+    "target_area": "spine, chest",
+    "difficulty": "advanced",
+    "benefits": "Deep backbend that opens the chest and shoulders and strengthens the back.",
+    "contraindications": "Avoid or modify with knee injury, since the pose is performed kneeling with body weight on the knees. Use caution with low back or neck injury.",
+    "description": "Kneel with hips over knees, arch the back and reach the hands toward the heels, chest lifted."
+  },
+  {
+    "name": "Reclining Bound Angle Pose (Supta Baddha Konasana)",
+    "target_area": "hips, relaxation",
+    "difficulty": "beginner",
+    "benefits": "Gently opens the hips, restorative and relaxing. Knee-safe, since the pose is reclined and supported, with no weight bearing on the knees.",
+    "contraindications": "Avoid or modify with groin or hip injury.",
+    "description": "Lie on the back, bring the soles of the feet together and let the knees fall open to the sides, supported with cushions if needed."
+  },
+  {
+    "name": "Pigeon Pose (Eka Pada Rajakapotasana)",
+    "target_area": "hips",
+    "difficulty": "advanced",
+    "benefits": "Deep hip opener, releases tension held in the hips and glutes.",
+    "contraindications": "Avoid or modify with knee injury, since the front leg's bent position places rotational stress on the knee joint. Use caution with hip injury.",
+    "description": "From hands and knees, bring one knee forward toward the same-side wrist, extend the other leg straight back, fold forward if comfortable."
+  }
+]
