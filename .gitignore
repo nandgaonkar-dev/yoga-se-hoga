@@ -1,3 +1,10 @@
+# Scripts
+exps/
+
+# Regenerable RAG artifacts (rebuild via `python -m app.embed_kb`)
+app/chroma_db/
+app/yoga.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
