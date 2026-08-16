@@ -24,7 +24,7 @@ app/
     └── routine_service_no_rag.py   Pre-RAG generation — not used by the live API, see below
 
 evals/
-└── eval_week2.py          Runs the non-RAG generator across fixed inputs, logs pass/fail + latency
+└── eval_no_rag.py          Runs the non-RAG generator across fixed inputs, logs pass/fail + latency
 ```
 
 The endpoint is a thin wrapper — all actual logic (retrieval, prompt building, the Groq call, retries) lives in plain functions in `routine_service.py`, callable with no HTTP involved. `evals/` imports those functions directly, so eval harnesses exercise the same code the API runs, not a separate copy.
@@ -62,4 +62,4 @@ uvicorn app.main:app --reload
 
 ## Incremental development
 
-`app/legacy/routine_service_no_rag.py` is the older implementation — structured output and the retry loop, no retrieval — kept as a reference point for how the project evolved rather than as a live code path. It isn't imported by `app/main.py`; the only thing that still exercises it is `evals/eval_week2.py`, which evaluates first-pass JSON-schema validity independent of retrieval. It shares the retry helper (`_generate_with_retry` in `app/routine_service.py`) with the current RAG implementation rather than duplicating it, since that logic isn't RAG-specific and duplicating it once already caused a real bug in an earlier version of this project (a fix applied to one copy of the retry loop didn't reach the others).
+`app/legacy/routine_service_no_rag.py` is the older implementation — structured output and the retry loop, no retrieval — kept as a reference point for how the project evolved rather than as a live code path.
